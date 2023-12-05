@@ -1,0 +1,6 @@
+name: my_flutter_app
+description: A new Flutter project
+
+dependencies:
+  flutter:
+    sdk: flutter
